@@ -5,10 +5,10 @@ url: https://yuta-ubiquitous.github.io
 description: "Yuta Takahashi's Portfolio"
 skills: "奈良先端科学技術大学院大学 - ユビキタスコンピューティングシステム研究室 - 博士後期課程1年"
 meta_author: Yuta Takahashi
-last_update: 2018年5月19日
+last_update: 2018年6月23日
 
 # Google webmaster tools
-google_verify: hbheoOAPjZFWnOjNtlWR0sOpFnglXPXPlZUE_h9rZx0
+google_verify:
 
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
